@@ -1,2 +1,2 @@
 # Icey
-A 2D Game Engine for Windows.
+A Cross-Platform 2D Engine.
