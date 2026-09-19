@@ -1,2 +1,2 @@
 # Icey
-A Cross-Platform 2D Engine.
+A Cross-Platform 2D Game Engine.
